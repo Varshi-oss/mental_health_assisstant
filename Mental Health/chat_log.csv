@@ -1,0 +1,24 @@
+timestamp,session_id,query,response,crisis_flag
+2025-08-18T21:48:36.553977,new03,How about i am so stressed about my exams,"I understand you're feeling stressed about your exams.  That's completely normal; many people experience stress before exams.  The document I have access to mentions that stress-related issues are a common mental health condition.  It also emphasizes the importance of talking to a doctor or therapist if you're struggling with your mental health.  Since your stress is related to exams, I strongly recommend talking to someone – a trusted friend, family member, teacher, counselor, or therapist – about how you're feeling. They can offer support and possibly suggest coping strategies to help you manage your stress.  I, unfortunately, cannot provide medical or therapeutic advice.
+",False
+2025-08-18T22:49:55.948066,user_session,i feel like suicidal thoughts,"It sounds like you are going through a really tough time. You are not alone, and there are people who can help you. Please consider reaching out to a mental health professional or contacting a helpline:
+
+**India:** 9856783253 (iCall)
+
+You matter 💙",True
+2025-08-18T22:51:38.239144,user_session,My mind is currenting exhausted due to family stress,"I'm sorry to hear you're experiencing mental exhaustion due to family stress.  Based on the provided text, family stress is mentioned as an example of a stress-related issue, which is a common mental health condition.  The document strongly recommends talking to a doctor or therapist if you are struggling with your mental health.  It's important to seek professional help to address these issues and develop coping strategies.  I cannot provide medical advice, but I encourage you to reach out to a healthcare professional for support.
+",False
+2025-08-18T23:13:34.774410,user_session,I m having something like to kill myself,"It sounds like you are going through a really tough time. You are not alone, and there are people who can help you. Please consider reaching out to a mental health professional or contacting a helpline:
+
+**India:** 9856783253 (iCall)
+
+You matter 💙",True
+2025-08-19T11:12:11.697207,user_session,i have suicidal thoughts,"It sounds like you are going through a really tough time. You are not alone, and there are people who can help you. Please consider reaching out to a mental health professional or contacting a helpline:
+
+**India:** 9856783253 (iCall)
+
+You matter 💙",True
+2025-08-19T11:12:54.470020,user_session,I am so so feeling bad about my results as i have given my exam very bad,"I'm sorry to hear you're feeling bad about your exam results.  That's understandable; it's tough when things don't go as planned.  The document I have access to focuses on mental health in general, mentioning common conditions like depression, anxiety disorders, and stress-related issues.  Feeling bad after a poor exam result is a very common stress-related issue.
+
+While I can't offer specific advice on how to deal with your exam results (as I'm not qualified to give that kind of advice), the document does emphasize the importance of talking to a doctor or therapist if you're struggling with your mental health.  If these feelings of being ""so so bad"" persist or intensify, reaching out to a professional could be very helpful. They can provide support and guidance tailored to your situation.  They might also be able to help you develop coping mechanisms for dealing with stressful situations like this in the future.
+",False

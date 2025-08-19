@@ -1,0 +1,11 @@
+langchain 
+llama-index
+haystack
+
+fastapi
+uvicorn
+
+requests
+python-dotenv
+
+autogpt
